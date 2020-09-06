@@ -31,7 +31,7 @@ model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accur
 model.fit(X_train, y_train, validation_data=(X_test, y_test), epochs=10, batch_size=200)
 
 #Saving the model
-model.save('digitreg2.h5')
+model.save('digitreg.h5')
 
 
 
