@@ -8,7 +8,7 @@ Steps to use Digit Recognizer using GUI python
 4. Press BACKSPACE to clear the canvas
 
 Files-
-1. python.py - contains the gui code
+1. project.py - contains the GUI code
 2. model.py - contains the code used to train the model using CNN
 3. trainedmodel.py - loads already trained model and predicts the input data
 4. digitrecog.h5 - the trained model
