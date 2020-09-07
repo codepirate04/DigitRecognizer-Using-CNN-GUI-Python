@@ -11,4 +11,4 @@ Files-
 1. project.py - contains the GUI code
 2. model.py - contains the code used to train the model using CNN
 3. trainedmodel.py - loads already trained model and predicts the input data
-4. digitrecog.h5 - the trained model
+4. digitreg.h5 - the trained model
